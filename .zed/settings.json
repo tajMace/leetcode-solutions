@@ -1,0 +1,7 @@
+{
+  "languages": {
+    "C++": {
+      "allow_rewrap": "anywhere"
+    }
+  }
+}
