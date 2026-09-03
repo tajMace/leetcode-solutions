@@ -1,0 +1,14 @@
+[[bin]]
+name = "palindrome_number"
+path = "src/problems/palindrome-number/q.rs"
+
+[[bin]]
+name = "two_sum"
+path = "src/problems/two-sum/q.rs"
+
+[dependencies]
+
+[package]
+edition = "2024"
+name = "leetcode"
+version = "0.1.0"
